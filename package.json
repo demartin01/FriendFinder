@@ -4,7 +4,7 @@
   "description": "This Repo was created as HW Assignment as a student of the Vanderbilt Coding Bootcamp \r riend Finder - Node and Express Servers",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
